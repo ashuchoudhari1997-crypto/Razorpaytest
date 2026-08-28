@@ -1,0 +1,7 @@
+streamlit 
+razorpay 
+python-dotenv
+uvicorn 
+jinja2
+requests
+fastapi
